@@ -1,3 +1,5 @@
+package firststeps
+
 fun main() {
     println("Hello, Adelson!\n")
 
