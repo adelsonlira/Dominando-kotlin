@@ -1,4 +1,4 @@
-# **CURSO DOMINANDO KOTLIN**
+# CURSO DOMINANDO KOTLIN
 
 ## Seção 1: Conhecendo o Kotlin :heavy_check_mark:
 * 1.1 A história do Kotlin 
